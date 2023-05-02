@@ -147,7 +147,7 @@ The same is true if we want content generated in the browser as a result of XHR 
 
 ## Previous works
 
-Python Scrapy framework : https://github.com/ViktorMaximovskiy88/test_scrape/BetScraper/tree/main/OppCheck/hga
+Python Scrapy framework : https://github.com/ViktorMaximovskiy88/BetScraper/tree/main/OppCheck/hga
 
 Python Playwright:
-https://github.com/ViktorMaximovskiy88/test_scrape/Apollo_health
+https://github.com/ViktorMaximovskiy88/Apollo_health
